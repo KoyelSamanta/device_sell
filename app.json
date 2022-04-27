@@ -1,0 +1,8 @@
+{
+  "name": "device_sell",
+  "buildpacks" : [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
